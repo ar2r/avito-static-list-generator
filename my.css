@@ -1,0 +1,19 @@
+a {
+	color: #6049a0;
+	font-size: 24px;
+}
+td{
+	padding: 10px;
+}
+
+.price{
+	font-size: 24px;
+	color: #09bd07;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+td{
+	margin: 0px;
+	border-bottom: 3px solid #ffcc00;
+}
